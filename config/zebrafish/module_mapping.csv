@@ -1,0 +1,10 @@
+lineage,segment,stage,sheet,module_id,mapping_status,mapping_basis,confidence
+somites,12,12.0,6 Somites,5,frozen,"highest mean score in somites among 25 terminal URD segments; specificity z=4.44",high
+somites,12,12.0,6 Somites,18,frozen,"highest mean score in somites among 25 terminal URD segments; specificity z=7.21",high
+pharyngeal_endoderm,17,12.0,6 Somites,26,frozen,"second-highest terminal-segment mean (behind EVL/periderm); pharyngeal specificity z=2.80",moderate
+pancreatic_intestinal_endoderm,26,12.0,6 Somites,16,frozen,"third-highest terminal-segment mean; pancreatic/intestinal specificity z=1.49",moderate
+pancreatic_intestinal_endoderm,26,12.0,6 Somites,40,frozen,"second-highest terminal-segment mean (behind tailbud); pancreatic/intestinal specificity z=2.00",moderate
+prechordal_plate,29,12.0,6 Somites,3,frozen,"highest mean score in prechordal plate among 25 terminal URD segments; specificity z=19.79",high
+notochord,32,12.0,6 Somites,10,frozen,"highest mean score in notochord among 25 terminal URD segments; specificity z=5.26",high
+adaxial_cells,34,12.0,6 Somites,2,frozen,"highest mean score in adaxial cells among 25 terminal URD segments; specificity z=4.55",high
+adaxial_cells,34,12.0,6 Somites,17,frozen,"highest mean score in adaxial cells among 25 terminal URD segments; specificity z=6.36",high

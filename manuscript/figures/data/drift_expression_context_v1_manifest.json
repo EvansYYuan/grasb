@@ -1,0 +1,36 @@
+{
+  "version": "v1 journal-style review",
+  "figure_width_mm": 180,
+  "png_ppi": 600,
+  "vector_outputs": [
+    "PDF",
+    "SVG"
+  ],
+  "font": "Open Sauce One",
+  "font_license": "manuscript/figures/assets/fonts/Open_Sauce_One_OFL.txt",
+  "dataset_separation": "pancreas and zebrafish are never pooled within a subplot",
+  "figure2_argument": "GRN guidance adds regulatory attribution beyond the VAE baseline",
+  "figure3_argument": "local decoded-drift gain and integrated expression transport are distinct",
+  "runtime": {
+    "python": "3.11.16",
+    "environment": "environment-figures.yml",
+    "numpy": "2.4.6",
+    "pandas": "3.0.5",
+    "matplotlib": "3.11.1"
+  },
+  "outputs": [
+    "figure2_guidance_beyond_vae_v1.pdf",
+    "figure2_guidance_beyond_vae_v1.svg",
+    "figure2_guidance_beyond_vae_v1.png",
+    "figure3_local_vs_integrated_v1.pdf",
+    "figure3_local_vs_integrated_v1.svg",
+    "figure3_local_vs_integrated_v1.png",
+    "figure2_v1_systematic.csv",
+    "figure2_v1_exemplar_expression_raw.csv",
+    "figure2_v1_exemplar_expression_summary.csv",
+    "figure2_v1_exemplar_ranks.csv",
+    "figure3_v1_trajectories.csv",
+    "figure3_v1_local_vs_integrated.csv",
+    "figure3_v1_exemplar_flow.csv"
+  ]
+}

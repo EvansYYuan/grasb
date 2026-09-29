@@ -1,0 +1,28 @@
+dataset,metric,condition,mean,sd,n_models,direction,scope
+pancreas,matching_marker_gsea_nes,nogrn,0.053,,1,higher,held-out days 3 and 6
+pancreas,matching_marker_gsea_nes,grasb,1.260,,1,higher,held-out days 3 and 6
+pancreas,matching_marker_gsea_nes,shuffle,-0.158,0.241,6,higher,held-out days 3 and 6
+pancreas,marker_recall_at_15,nogrn,0.094,,1,higher,held-out days 3 and 6
+pancreas,marker_recall_at_15,grasb,0.319,,1,higher,held-out days 3 and 6
+pancreas,marker_recall_at_15,shuffle,0.105,0.054,6,higher,held-out days 3 and 6
+pancreas,wasserstein_2,nogrn,10.513,,1,lower,day 3
+pancreas,wasserstein_2,grasb,11.151,,1,lower,day 3
+pancreas,wasserstein_2,shuffle,11.279,0.176,6,lower,day 3
+pancreas,wasserstein_2,nogrn,8.942,,1,lower,day 6
+pancreas,wasserstein_2,grasb,10.923,,1,lower,day 6
+pancreas,wasserstein_2,shuffle,10.937,0.051,6,lower,day 6
+zebrafish,matching_module_gsea_nes,nogrn,1.106,0.247,3,higher,primary 7 and 9 hpf
+zebrafish,matching_module_gsea_nes,grasb,1.622,0.044,3,higher,primary 7 and 9 hpf
+zebrafish,matching_module_gsea_nes,shuffle,0.711,0.336,3,higher,primary 7 and 9 hpf
+zebrafish,marker_recall_at_50,nogrn,0.365,0.064,3,higher,primary 7 and 9 hpf
+zebrafish,marker_recall_at_50,grasb,0.503,0.017,3,higher,primary 7 and 9 hpf
+zebrafish,marker_recall_at_50,shuffle,0.299,0.066,3,higher,primary 7 and 9 hpf
+zebrafish,matching_module_rank,nogrn,2.370,0.178,3,lower,primary 7 and 9 hpf
+zebrafish,matching_module_rank,grasb,1.615,0.340,3,lower,primary 7 and 9 hpf
+zebrafish,matching_module_rank,shuffle,3.356,0.550,3,lower,primary 7 and 9 hpf
+zebrafish,wasserstein_2,nogrn,14.644,1.243,3,lower,7 hpf
+zebrafish,wasserstein_2,grasb,16.891,1.329,3,lower,7 hpf
+zebrafish,wasserstein_2,shuffle,16.284,1.703,3,lower,7 hpf
+zebrafish,wasserstein_2,nogrn,15.376,0.847,3,lower,9 hpf
+zebrafish,wasserstein_2,grasb,18.301,1.808,3,lower,9 hpf
+zebrafish,wasserstein_2,shuffle,17.963,1.652,3,lower,9 hpf

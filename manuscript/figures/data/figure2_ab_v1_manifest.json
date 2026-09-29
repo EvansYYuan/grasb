@@ -1,0 +1,17 @@
+{
+  "version": "Figure 2a-b candidate-screen review v1",
+  "source": "manuscript/figures/data/figure2_v2_selection.csv",
+  "argument": "genes promoted by genuine-GRN guidance contrasted with prominent output genes preferentially ranked by no GRN",
+  "selection_rule": "primarily one or two far-right clean genuine-GRN exemplars per represented cell type, plus RIPPLY1, CDKN1CA, and MYF5 as biologically supported central-bottom cases; GCG and INS are Figure 3-matched above-diagonal no-GRN exemplars",
+  "candidate_colors": {
+    "favored by genuine GRN": "#E1645D",
+    "favored by no GRN": "#2F668F"
+  },
+  "legend": "omitted; conditions are named by the axes",
+  "outputs": [
+    "figure2_ab_grn_added_v1.pdf",
+    "figure2_ab_grn_added_v1.svg",
+    "figure2_ab_grn_added_v1.png",
+    "figure2_ab_v1_candidates.csv"
+  ]
+}

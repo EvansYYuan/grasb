@@ -1,0 +1,15 @@
+# Environment used for the reported GRASB experiments (Python 3.10).
+jax==0.5.0
+jaxlib==0.5.0
+dm-haiku @ git+https://github.com/google-deepmind/dm-haiku@a32b885949300989b9822eb26142216b37a27f51
+optax==0.2.4
+ott-jax==0.5.0
+numpy==2.1.3
+pandas==2.2.3
+scikit-learn==1.6.1
+scipy==1.15.1
+tqdm==4.67.1
+gseapy==1.3.0
+pyarrow==24.0.0
+pytest>=8,<9
+openpyxl>=3.1,<4

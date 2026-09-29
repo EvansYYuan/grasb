@@ -1,0 +1,42 @@
+lineage,lineage_display,gene,source,panel_role
+sc_beta,beta-like,INS,Veres Extended Data Table 2,positive identity marker
+sc_beta,beta-like,NKX6-1,Veres Extended Data Table 2,positive identity marker
+sc_beta,beta-like,ISL1,Veres Extended Data Table 2,positive identity marker
+sc_beta,beta-like,PAX4,Veres Extended Data Table 2,positive identity marker
+sc_beta,beta-like,G6PC2,Veres Extended Data Table 2,positive identity marker
+sc_beta,beta-like,NPTX2,Veres Extended Data Table 2,positive identity marker
+sc_alpha,alpha-like,GCG,Veres Extended Data Table 2,positive identity marker
+sc_alpha,alpha-like,ARX,Veres Extended Data Table 2,positive identity marker
+sc_alpha,alpha-like,IRX2,Veres Extended Data Table 2,positive identity marker
+sc_alpha,alpha-like,CD36,Veres Extended Data Table 2,positive identity marker
+sc_alpha,alpha-like,ISL1,Veres Extended Data Table 2,positive identity marker
+sc_ec,EC-like,TPH1,Veres Extended Data Table 2,positive identity marker
+sc_ec,EC-like,SLC18A1,Veres Extended Data Table 2,positive identity marker
+sc_ec,EC-like,FEV,Veres Extended Data Table 2,positive identity marker
+sc_ec,EC-like,DDC,Veres Extended Data Table 2,positive identity marker
+sc_ec,EC-like,ADRA2A,Veres Extended Data Table 2,positive identity marker
+sst_hhex,delta-like,SST,Veres Extended Data Table 2,positive identity marker
+sst_hhex,delta-like,HHEX,Veres Extended Data Table 2,positive identity marker
+sst_hhex,delta-like,ISL1,Veres Extended Data Table 2,positive identity marker
+sst_hhex,delta-like,RBP4,Veres Extended Data Table 2,positive identity marker
+neurog3_early,early endocrine progenitor,NEUROG3,Veres Extended Data Table 2,positive identity marker
+neurog3_early,early endocrine progenitor,BTG2,Veres Extended Data Table 2,positive identity marker
+neurog3_early,early endocrine progenitor,GADD45A,Veres Extended Data Table 2,positive identity marker
+neurog3_mid,mid endocrine progenitor,NEUROG3,Veres Extended Data Table 2,positive identity marker
+neurog3_mid,mid endocrine progenitor,PAX4,Veres Extended Data Table 2,positive identity marker
+neurog3_mid,mid endocrine progenitor,HES6,Veres Extended Data Table 2,positive identity marker
+neurog3_late,late endocrine progenitor,NEUROG3,Veres Extended Data Table 2,positive identity marker
+neurog3_late,late endocrine progenitor,NEUROD1,Veres Extended Data Table 2,positive identity marker
+neurog3_late,late endocrine progenitor,FEV,Veres Extended Data Table 2,positive identity marker
+prog_nkx61,NKX6-1+ progenitor,NKX6-1,Veres Extended Data Table 2,positive identity marker
+prog_nkx61,NKX6-1+ progenitor,PTF1A,Veres Extended Data Table 2,positive identity marker
+prog_nkx61,NKX6-1+ progenitor,SOX9,Veres Extended Data Table 2,positive identity marker
+prog_nkx61,NKX6-1+ progenitor,SPP1,Veres Extended Data Table 2,positive identity marker
+phox2a,PHOX2A+,PHOX2A,Veres Extended Data Table 2,positive identity marker
+phox2a,PHOX2A+,TPH1,Veres Extended Data Table 2,positive identity marker
+phox2a,PHOX2A+,FEV,Veres Extended Data Table 2,positive identity marker
+phox2a,PHOX2A+,KLK1,Veres Extended Data Table 2,positive identity marker
+phox2a,PHOX2A+,ENC1,Veres Extended Data Table 2,positive identity marker
+fev_high_isl_low,FEV-high endocrine progenitor,FEV,Veres Extended Data Table 2,positive identity marker
+fev_high_isl_low,FEV-high endocrine progenitor,PAX4,Veres Extended Data Table 2,positive identity marker
+fev_high_isl_low,FEV-high endocrine progenitor,ONECUT3,Veres Extended Data Table 2,positive identity marker

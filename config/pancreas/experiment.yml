@@ -1,0 +1,44 @@
+dataset: pancreatic_differentiation
+source: Veres et al. 2019
+inputs:
+  expression: data/pancreatic_preprocessed.csv
+  metadata: data/pancreatic_metadata.tsv
+  promoter_grn: data/human_promoter_base_grn.parquet
+timepoints:
+  train: [0, 1, 2, 4, 5, 7]
+  held_out: [3, 6]
+labels:
+  metadata_index: library.barcode
+  cell_type_column: Assigned_cluster
+  time_column: CellWeek
+vae:
+  latent_dim: 10
+  beta: 0.3
+  frozen: true
+bridge:
+  reference_drift: 0.0
+  diffusion: triangular
+  g_max: 0.5
+  euler_maruyama_steps: 100
+  hidden_width: 512
+  batch_size: 512
+  ipf_outer_iterations: 10
+  epochs_per_phase: 10
+grn:
+  component: regulon
+  velocity: gamma_Ax
+  lambda_grn: 1.0
+  ridge_alpha: 1.0
+  adaptive_alpha: one_pn
+  pooled_prior: type_ivl
+  minimum_context_cells: 30
+controls: [nogrn, genuine_grn, degree_preserving_shuffle]
+evaluation:
+  marker_panel: config/pancreas/marker_panel.csv
+  primary_marker_file: config/pancreas/veres_edt2_markers.csv
+  marker_summary: config/pancreas/marker_panel_summary.csv
+  lineage_map: config/pancreas/lineage_map.csv
+  references: config/pancreas/references.csv
+  primary_marker_set: edt2
+  recall_k: 15
+  held_out_metric: wasserstein_2

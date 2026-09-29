@@ -1,0 +1,11 @@
+lineage,lineage_display,evaluation_role,n_edt2_markers
+sc_beta,beta-like,terminal,6
+sc_alpha,alpha-like,terminal,5
+sc_ec,EC-like,terminal,5
+sst_hhex,delta-like,terminal,4
+neurog3_early,early endocrine progenitor,progenitor,3
+neurog3_mid,mid endocrine progenitor,progenitor,3
+neurog3_late,late endocrine progenitor,progenitor,3
+prog_nkx61,NKX6-1+ progenitor,progenitor,4
+phox2a,PHOX2A+,progenitor,5
+fev_high_isl_low,FEV-high endocrine progenitor,progenitor,3

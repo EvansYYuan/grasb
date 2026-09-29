@@ -1,0 +1,193 @@
+time,gene,expression,dataset,condition,provenance
+0,NEUROG3,0.0196726705848142,pancreas,observed,observed population mean
+1,NEUROG3,0.2842707941346932,pancreas,observed,observed population mean
+2,NEUROG3,0.4628033143149915,pancreas,observed,observed population mean
+3,NEUROG3,0.3672191955694478,pancreas,observed,observed population mean
+4,NEUROG3,0.2592331798209876,pancreas,observed,observed population mean
+5,NEUROG3,0.1913697227311055,pancreas,observed,observed population mean
+6,NEUROG3,0.1040382423199733,pancreas,observed,observed population mean
+7,NEUROG3,0.1450701146889952,pancreas,observed,observed population mean
+0,NEUROD1,0.1455351396252019,pancreas,observed,observed population mean
+1,NEUROD1,0.3683932968091307,pancreas,observed,observed population mean
+2,NEUROD1,0.7174801179421673,pancreas,observed,observed population mean
+3,NEUROD1,0.6481004298068446,pancreas,observed,observed population mean
+4,NEUROD1,0.7279714945833334,pancreas,observed,observed population mean
+5,NEUROD1,0.7186170872829483,pancreas,observed,observed population mean
+6,NEUROD1,0.5221778644121071,pancreas,observed,observed population mean
+7,NEUROD1,0.6307355604683959,pancreas,observed,observed population mean
+0,NKX2-2,0.0567074218077544,pancreas,observed,observed population mean
+1,NKX2-2,0.2777943571944309,pancreas,observed,observed population mean
+2,NKX2-2,0.5158589736047164,pancreas,observed,observed population mean
+3,NKX2-2,0.4895813206371724,pancreas,observed,observed population mean
+4,NKX2-2,0.5314259815802469,pancreas,observed,observed population mean
+5,NKX2-2,0.5474423958713304,pancreas,observed,observed population mean
+6,NKX2-2,0.4265374182338267,pancreas,observed,observed population mean
+7,NKX2-2,0.530605107592546,pancreas,observed,observed population mean
+0,FEV,0.1176894848271405,pancreas,observed,observed population mean
+1,FEV,0.1659592793168204,pancreas,observed,observed population mean
+2,FEV,0.3620423114149354,pancreas,observed,observed population mean
+3,FEV,0.6776149809529534,pancreas,observed,observed population mean
+4,FEV,0.662452307087963,pancreas,observed,observed population mean
+5,FEV,0.6751936092567146,pancreas,observed,observed population mean
+6,FEV,0.5540209926658906,pancreas,observed,observed population mean
+7,FEV,0.6792896085671116,pancreas,observed,observed population mean
+0,INS,0.1241831386817447,pancreas,observed,observed population mean
+1,INS,0.1688472971458637,pancreas,observed,observed population mean
+2,INS,0.2472912600252667,pancreas,observed,observed population mean
+3,INS,0.6192780314370442,pancreas,observed,observed population mean
+4,INS,0.6747351981234567,pancreas,observed,observed population mean
+5,INS,1.0422300561227358,pancreas,observed,observed population mean
+6,INS,1.1602972596956591,pancreas,observed,observed population mean
+7,INS,1.4003449697783934,pancreas,observed,observed population mean
+0,GCG,0.0637375756978998,pancreas,observed,observed population mean
+1,GCG,0.2411260370697749,pancreas,observed,observed population mean
+2,GCG,0.3204808896911847,pancreas,observed,observed population mean
+3,GCG,1.2416700093251585,pancreas,observed,observed population mean
+4,GCG,0.5618113683225309,pancreas,observed,observed population mean
+5,GCG,0.7666314597688945,pancreas,observed,observed population mean
+6,GCG,0.5942794479444536,pancreas,observed,observed population mean
+7,GCG,0.953637944323848,pancreas,observed,observed population mean
+0,SST,0.2308265153796446,pancreas,observed,observed population mean
+1,SST,0.2064302385267929,pancreas,observed,observed population mean
+2,SST,0.1604177061285794,pancreas,observed,observed population mean
+3,SST,0.2983652745924501,pancreas,observed,observed population mean
+4,SST,0.1530227027762346,pancreas,observed,observed population mean
+5,SST,0.1487997772938788,pancreas,observed,observed population mean
+6,SST,0.092494033465824,pancreas,observed,observed population mean
+7,SST,0.17701313839587,pancreas,observed,observed population mean
+0,SLC30A8,0.0037139738239095,pancreas,observed,observed population mean
+1,SLC30A8,0.0262243933122875,pancreas,observed,observed population mean
+2,SLC30A8,0.0562287993655249,pancreas,observed,observed population mean
+3,SLC30A8,0.0737043982848441,pancreas,observed,observed population mean
+4,SLC30A8,0.1487698469151234,pancreas,observed,observed population mean
+5,SLC30A8,0.2217818409056839,pancreas,observed,observed population mean
+6,SLC30A8,0.1959318123399301,pancreas,observed,observed population mean
+7,SLC30A8,0.2444842183404683,pancreas,observed,observed population mean
+0,NEUROG3,0.0203144773840904,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+1,NEUROG3,0.0211730897426605,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+2,NEUROG3,0.0289881564676761,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+3,NEUROG3,0.0278610754758119,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+4,NEUROG3,0.0303118973970413,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+5,NEUROG3,0.0326977558434009,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+6,NEUROG3,0.0331899262964725,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+7,NEUROG3,0.0300445929169654,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+0,NEUROD1,0.1290374100208282,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+1,NEUROD1,0.1301924437284469,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+2,NEUROD1,0.1590273082256317,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+3,NEUROD1,0.1365901380777359,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+4,NEUROD1,0.134840652346611,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+5,NEUROD1,0.1389729976654052,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+6,NEUROD1,0.1463980078697204,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+7,NEUROD1,0.1371296644210815,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+0,NKX2-2,0.0567437782883644,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+1,NKX2-2,0.0575956143438816,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+2,NKX2-2,0.0685425475239753,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+3,NKX2-2,0.0612302683293819,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+4,NKX2-2,0.0646591484546661,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+5,NKX2-2,0.0695595368742942,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+6,NKX2-2,0.075338028371334,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+7,NKX2-2,0.0755287930369377,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+0,FEV,0.1017688140273094,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+1,FEV,0.1023214235901832,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+2,FEV,0.128818392753601,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+3,FEV,0.1097615286707878,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+4,FEV,0.1118797585368156,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+5,FEV,0.1178820356726646,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+6,FEV,0.1316955685615539,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+7,FEV,0.1279797255992889,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+0,INS,0.1133571341633796,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+1,INS,0.1114274635910987,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+2,INS,0.1258017122745514,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+3,INS,0.1115380227565765,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+4,INS,0.1048210263252258,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+5,INS,0.1075909286737442,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+6,INS,0.1285254061222076,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+7,INS,0.1327489167451858,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+0,GCG,0.0552369244396686,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+1,GCG,0.0558970347046852,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+2,GCG,0.050141554325819,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+3,GCG,0.064073272049427,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+4,GCG,0.0688117519021034,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+5,GCG,0.0734112635254859,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+6,GCG,0.0802619233727455,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+7,GCG,0.0854000523686409,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+0,SST,0.235721081495285,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+1,SST,0.2324439883232116,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+2,SST,0.2531597912311554,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+3,SST,0.2084453552961349,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+4,SST,0.1878355741500854,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+5,SST,0.1897261440753936,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+6,SST,0.2063508778810501,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+7,SST,0.2067951709032058,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+0,SLC30A8,-0.000416337075876,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+1,SLC30A8,-0.0004765552002936,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+2,SLC30A8,-0.0014384584501385,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+3,SLC30A8,0.0025348563212901,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+4,SLC30A8,0.003922710660845,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+5,SLC30A8,0.0037315529771149,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+6,SLC30A8,0.0034323050640523,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+7,SLC30A8,0.0044912924058735,pancreas,genuine GRN,matched 40-epoch mechanistic diagnostic
+0,NEUROG3,0.0203144755214452,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+1,NEUROG3,0.0218526385724544,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+2,NEUROG3,0.0362683571875095,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+3,NEUROG3,0.0916628167033195,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+4,NEUROG3,0.3173587322235107,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+5,NEUROG3,0.3652223646640777,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+6,NEUROG3,0.1822512745857238,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+7,NEUROG3,0.1395551115274429,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+0,NEUROD1,0.1290374100208282,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+1,NEUROD1,0.1355710923671722,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+2,NEUROD1,0.1781893670558929,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+3,NEUROD1,0.2853820919990539,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+4,NEUROD1,0.6390687823295593,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+5,NEUROD1,0.7145467400550842,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+6,NEUROD1,0.6285718083381653,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+7,NEUROD1,0.6143357753753662,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+0,NKX2-2,0.0567437782883644,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+1,NKX2-2,0.0590587221086025,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+2,NKX2-2,0.0799308642745018,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+3,NKX2-2,0.153119683265686,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+4,NKX2-2,0.462483286857605,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+5,NKX2-2,0.5882642269134521,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+6,NKX2-2,0.5020182132720947,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+7,NKX2-2,0.4960673749446869,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+0,FEV,0.1017688140273094,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+1,FEV,0.1061993315815925,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+2,FEV,0.1478341072797775,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+3,FEV,0.2330470532178878,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+4,FEV,0.3866715729236603,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+5,FEV,0.4809644520282745,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+6,FEV,0.6151618361473083,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+7,FEV,0.6421512365341187,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+0,INS,0.1133571341633796,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+1,INS,0.0995088368654251,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+2,INS,0.0901940613985061,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+3,INS,0.1137169897556305,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+4,INS,0.340873122215271,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+5,INS,0.5967548489570618,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+6,INS,1.0853919982910156,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+7,INS,1.4367594718933103,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+0,GCG,0.0552369244396686,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+1,GCG,0.055065032094717,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+2,GCG,0.0593184679746627,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+3,GCG,0.1027284935116767,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+4,GCG,0.299625426530838,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+5,GCG,0.4696180522441864,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+6,GCG,0.7381944060325623,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+7,GCG,0.8779881000518799,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+0,SST,0.2357210665941238,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+1,SST,0.2293144017457962,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+2,SST,0.2359451353549957,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+3,SST,0.2194740325212478,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+4,SST,0.2639716863632202,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+5,SST,0.2635113894939422,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+6,SST,0.154115080833435,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+7,SST,0.1274006962776184,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+0,SLC30A8,-0.0004163374542258,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+1,SLC30A8,3.590384949347936e-05,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+2,SLC30A8,0.0001591905747773,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+3,SLC30A8,0.0078495610505342,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+4,SLC30A8,0.0419404692947864,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+5,SLC30A8,0.0901731178164482,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+6,SLC30A8,0.1941932588815689,pancreas,no GRN,matched 40-epoch mechanistic diagnostic
+7,SLC30A8,0.2429589182138443,pancreas,no GRN,matched 40-epoch mechanistic diagnostic

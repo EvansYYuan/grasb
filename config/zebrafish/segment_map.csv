@@ -1,0 +1,7 @@
+segment,lineage,short_name,evaluation_role,min_cells_per_stage
+12,somites,Som,primary,40
+17,pharyngeal_endoderm,Endo_Phar,secondary,40
+26,pancreatic_intestinal_endoderm,Endo_Pan_Int,secondary,40
+29,prechordal_plate,PCP,primary,40
+32,notochord,Noto,primary,40
+34,adaxial_cells,Adax,secondary,40

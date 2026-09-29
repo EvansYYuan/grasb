@@ -1,0 +1,35 @@
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.coverage
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+
+data/*
+!data/README.md
+
+# Large model/data artifacts are ignored everywhere, including results/.
+# Lightweight CSV/JSON/YAML/Markdown results remain trackable.
+*.pkl
+*.pickle
+*.parquet
+*.h5ad
+*.npz
+*.npy
+*.ckpt
+*.pt
+*.log
+
+# LaTeX build products; the curated preview PDF under manuscript/ is retained.
+*.aux
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.run.xml
+*.synctex.gz

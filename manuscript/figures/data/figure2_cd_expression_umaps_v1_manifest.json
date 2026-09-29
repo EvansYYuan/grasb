@@ -1,0 +1,151 @@
+{
+  "version": "Figure 2c-d observed-expression UMAP review",
+  "argument": "annotated rank-shift genes occupy cell-type-specific regions in observed expression space",
+  "pancreas_embeddings": [
+    "manuscript/figures/data/pancreas_day3_endocrine_umap_n250_md035_coordinates.csv.gz",
+    "manuscript/figures/data/pancreas_day6_endocrine_umap_n800_md035_coordinates.csv.gz"
+  ],
+  "pancreas_expression": "data/pancreatic_preprocessed.csv",
+  "zebrafish_expression": "data/zebrafish_preprocessed.csv",
+  "zebrafish_embedding": "manuscript/figures/data/zebrafish_9hpf_mesoderm_umap_n300_md035_coordinates.csv.gz",
+  "expression_encoding": "zero values retain the grey/teal base layer; positive values are scaled to each gene's 99th percentile and shown with a continuous light-orange-to-burgundy gradient",
+  "stage_logic": "each feature map is restricted to the stage used for that gene's rank point",
+  "embedding_scope": "independent PCA-UMAP fits for pancreatic day 3, pancreatic day 6, and zebrafish 9 hpf; no pooled-stage embedding",
+  "cell_universe": "pancreas: endocrine-lineage annotation set at the selected day; zebrafish: somites, adaxial cells, notochord, and prechordal plate at 9 hpf; no filtering by focal-gene expression",
+  "umap_parameters": {
+    "n_neighbors_by_day": {
+      "3.0": 250,
+      "6.0": 800
+    },
+    "min_dist": 0.35
+  },
+  "pancreas_genes": [
+    {
+      "gene": "NEUROG3",
+      "cell_type": "endocrine progenitors",
+      "day": 3.0,
+      "lineage": [
+        "neurog3_early",
+        "neurog3_mid",
+        "neurog3_late"
+      ]
+    },
+    {
+      "gene": "FEV",
+      "cell_type": "endocrine progenitor $\\rightarrow$ EC-like\ntransition intermediates",
+      "day": 3.0,
+      "lineage": [
+        "neurog3_late",
+        "fev_high_isl_low",
+        "phox2a",
+        "sc_ec"
+      ]
+    },
+    {
+      "gene": "SST",
+      "cell_type": "delta-like",
+      "day": 6.0,
+      "lineage": "sst_hhex"
+    },
+    {
+      "gene": "PAX4",
+      "cell_type": "endocrine progenitors",
+      "day": 3.0,
+      "lineage": [
+        "neurog3_early",
+        "neurog3_mid",
+        "neurog3_late"
+      ]
+    },
+    {
+      "gene": "DDC",
+      "cell_type": "endocrine progenitor $\\rightarrow$ EC-like\ntransition intermediates",
+      "day": 3.0,
+      "lineage": [
+        "neurog3_late",
+        "fev_high_isl_low",
+        "phox2a",
+        "sc_ec"
+      ]
+    },
+    {
+      "gene": "ARX",
+      "cell_type": "alpha-like",
+      "day": 6.0,
+      "lineage": "sc_alpha"
+    }
+  ],
+  "zebrafish_genes": [
+    {
+      "gene": "RIPPLY1",
+      "cell_type": "somite / prechordal-plate cells",
+      "hpf": 9.0,
+      "lineage": [
+        "somites",
+        "prechordal_plate"
+      ]
+    },
+    {
+      "gene": "MYF5",
+      "cell_type": "somitic and adaxial myogenic cells",
+      "hpf": 9.0,
+      "lineage": [
+        "somites",
+        "adaxial_cells"
+      ]
+    },
+    {
+      "gene": "CDKN1CA",
+      "cell_type": "adaxial and notochord cells",
+      "hpf": 9.0,
+      "lineage": [
+        "adaxial_cells",
+        "notochord"
+      ]
+    },
+    {
+      "gene": "TA",
+      "cell_type": "notochord",
+      "hpf": 9.0,
+      "lineage": "notochord"
+    },
+    {
+      "gene": "PCDH8",
+      "cell_type": "somitic and adaxial cells",
+      "hpf": 9.0,
+      "lineage": [
+        "somites",
+        "adaxial_cells"
+      ]
+    },
+    {
+      "gene": "MYOD1",
+      "cell_type": "adaxial slow-muscle precursors",
+      "hpf": 9.0,
+      "lineage": "adaxial_cells"
+    },
+    {
+      "gene": "TBX16",
+      "cell_type": "somitic and adaxial cells",
+      "hpf": 9.0,
+      "lineage": [
+        "somites",
+        "adaxial_cells"
+      ]
+    },
+    {
+      "gene": "PMP22B",
+      "cell_type": "notochord",
+      "hpf": 9.0,
+      "lineage": "notochord"
+    }
+  ],
+  "outputs": [
+    "figure2c_expression_umaps.pdf",
+    "figure2c_expression_umaps.svg",
+    "figure2c_expression_umaps.png",
+    "figure2d_expression_umaps.pdf",
+    "figure2d_expression_umaps.svg",
+    "figure2d_expression_umaps.png"
+  ]
+}

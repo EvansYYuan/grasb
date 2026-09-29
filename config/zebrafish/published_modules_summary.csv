@@ -1,0 +1,7 @@
+lineage,n_markers,n_modules,n_specificity_markers,min_confidence
+adaxial_cells,51,2,34,high
+notochord,21,1,11,high
+pancreatic_intestinal_endoderm,36,2,21,moderate
+pharyngeal_endoderm,23,1,16,moderate
+prechordal_plate,22,1,14,high
+somites,34,2,24,high

@@ -1,0 +1,84 @@
+{
+  "version": "Figure 3 pancreatic expression-aligned ranks v1",
+  "argument": "Observed expression and model-specific decoded-drift ranks are aligned for a fixed gene panel, exposing when no-GRN prioritization follows abundant state markers and when GRN guidance elevates regulatory genes.",
+  "units": [
+    {
+      "stage": 3,
+      "cell_type": "neurog3_late",
+      "title": "Day 3 \u00b7 late endocrine progenitors",
+      "panel": "a",
+      "genes": [
+        "INS",
+        "CALB2",
+        "MAFB",
+        "NEUROG3",
+        "NEUROD1",
+        "FEV",
+        "DDC",
+        "PAX4"
+      ]
+    },
+    {
+      "stage": 3,
+      "cell_type": "sc_alpha",
+      "title": "Day 3 \u00b7 alpha-like cells",
+      "panel": "b",
+      "genes": [
+        "GCG",
+        "INS",
+        "SCG5",
+        "SLC30A8",
+        "CDKN1C",
+        "MAFB",
+        "RGS4",
+        "ARX"
+      ]
+    },
+    {
+      "stage": 6,
+      "cell_type": "sc_beta",
+      "title": "Day 6 \u00b7 beta-like cells",
+      "panel": "c",
+      "genes": [
+        "INS",
+        "CALB2",
+        "ACVR1C",
+        "SCG5",
+        "SLC30A8",
+        "ERO1B",
+        "IGFBP5",
+        "ISL1"
+      ]
+    },
+    {
+      "stage": 6,
+      "cell_type": "sc_ec",
+      "title": "Day 6 \u00b7 EC-like cells",
+      "panel": "d",
+      "genes": [
+        "INS",
+        "CALB2",
+        "GAL",
+        "SCG2",
+        "CDKN1C",
+        "TPH1",
+        "GCH1",
+        "IGFBP5"
+      ]
+    }
+  ],
+  "gene_order": "descending observed mean expression within the matching lineage and day",
+  "rank_definition": "descending positive decoded drift within model, lineage, and day",
+  "expression_definition": "observed normalized expression across cells in the matching annotated lineage and day",
+  "sources": [
+    "results/per_type_drift.csv",
+    "data/pancreatic_preprocessed.csv",
+    "data/pancreatic_metadata.tsv"
+  ],
+  "outputs": [
+    "figure3_pancreas_ranked_violins_v1.pdf",
+    "figure3_pancreas_ranked_violins_v1.svg",
+    "figure3_pancreas_ranked_violins_v1.png",
+    "figure3_pancreas_ranked_violins_v1.csv"
+  ]
+}

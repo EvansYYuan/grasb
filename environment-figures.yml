@@ -1,0 +1,13 @@
+name: grasb-figures
+channels:
+  - conda-forge
+dependencies:
+  # Versions recorded from the grn_figures environment used for final figures.
+  - python=3.11
+  - numpy=2.4.6
+  - pandas=3.0.5
+  - matplotlib=3.11.1
+  - pillow=12.3.0
+  - scikit-learn=1.9.0
+  - umap-learn=0.5.12
+

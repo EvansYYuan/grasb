@@ -1,0 +1,28 @@
+{
+  "version": "Figure 2a-b candidate-screen review v2",
+  "source": "manuscript/figures/data/figure2_v2_selection.csv",
+  "expression_evidence_source": "manuscript/figures/data/figure2_reference_screen_aggregated.csv",
+  "argument": "genuine-GRN promotion of regulatory and lineage-associated genes is contrasted with no-GRN preference for terminal outputs and highly expressed state genes",
+  "v2_additions": {
+    "pancreas": [
+      "ADRA2A",
+      "NKX6-1"
+    ],
+    "zebrafish": [
+      "APOC1",
+      "STMN1A",
+      "CTSLB",
+      "KRT18"
+    ]
+  },
+  "candidate_colors": {
+    "favored by genuine GRN": "#E1645D",
+    "favored by no GRN": "#2F668F"
+  },
+  "outputs": [
+    "figure2_ab_grn_added_v2.pdf",
+    "figure2_ab_grn_added_v2.svg",
+    "figure2_ab_grn_added_v2.png",
+    "figure2_ab_v2_candidates.csv"
+  ]
+}

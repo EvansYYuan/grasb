@@ -1,0 +1,46 @@
+dataset: zebrafish_embryogenesis
+source: Farrell et al. 2018
+inputs:
+  expression: data/zebrafish_expression.csv
+  preprocessed_expression: data/zebrafish_preprocessed.csv
+  metadata: data/zebrafish_metadata.csv
+  groups: data/zebrafish_groups.csv
+  promoter_grn: data/zebrafish_promoter_base_grn.parquet
+timepoints:
+  train: [3.3, 3.8, 4.3, 4.7, 6.0, 8.0, 10.0, 11.0, 12.0]
+  held_out: [5.3, 7.0, 9.0]
+  primary_evaluation: [7.0, 9.0]
+  sensitivity_evaluation: [5.3]
+labels:
+  time_column: HPF
+  segment_column: segment
+  segment_map: config/zebrafish/segment_map.csv
+vae:
+  latent_dim: 10
+  beta: 0.3
+  frozen: true
+bridge:
+  reference_drift: 0.0
+  diffusion: triangular
+  g_max: 0.5
+  euler_maruyama_steps: 100
+  hidden_width: 512
+  batch_size: 512
+  ipf_outer_iterations: 10
+  epochs_per_phase: 10
+grn:
+  component: regulon
+  velocity: gamma_Ax
+  lambda_grn: 0.03
+  ridge_alpha: 1.0
+  adaptive_alpha: one_pn
+  pooled_prior: type_ivl
+  minimum_context_cells: 30
+controls: [nogrn, genuine_grn, degree_preserving_shuffle]
+evaluation:
+  published_modules: config/zebrafish/published_modules.csv
+  published_modules_full: config/zebrafish/published_modules_full.csv
+  classical_markers: config/zebrafish/marker_panel.csv
+  references: config/zebrafish/references.csv
+  recall_k: 50
+  held_out_metric: wasserstein_2

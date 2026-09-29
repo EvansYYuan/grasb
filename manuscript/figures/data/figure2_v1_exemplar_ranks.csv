@@ -1,0 +1,15 @@
+dataset,lineage,stage,condition,seed,gene,value,rank,rank_score,n_ranked,readout
+pancreas,neurog3_late,3.0,genuine GRN,,NEUROG3,0.05833,3,0.9989588755856325,1922,drift
+pancreas,neurog3_late,3.0,no GRN,,NEUROG3,0.0903,297,0.8459135866736075,1922,drift
+zebrafish,adaxial_cells,9.0,genuine GRN,0.0,MYOD1,0.7326311945915223,15,0.9929964982491246,2000,drift
+zebrafish,adaxial_cells,9.0,genuine GRN,0.0,MYOD1,0.7885608553886414,40,0.9804902451225613,2000,expression
+zebrafish,adaxial_cells,9.0,no GRN,0.0,MYOD1,-0.5448969960212707,1995,0.002501250625312701,2000,drift
+zebrafish,adaxial_cells,9.0,no GRN,0.0,MYOD1,0.9269900679588318,36,0.9824912456228114,2000,expression
+zebrafish,adaxial_cells,9.0,genuine GRN,1.0,MYOD1,0.6825046420097352,20,0.9904952476238119,2000,drift
+zebrafish,adaxial_cells,9.0,genuine GRN,1.0,MYOD1,0.7266340851783752,45,0.9779889944972486,2000,expression
+zebrafish,adaxial_cells,9.0,no GRN,1.0,MYOD1,-0.01075088735669848,1595,0.2026013006503251,2000,drift
+zebrafish,adaxial_cells,9.0,no GRN,1.0,MYOD1,0.8951335787773133,37,0.9819909954977488,2000,expression
+zebrafish,adaxial_cells,9.0,genuine GRN,2.0,MYOD1,0.5396923661231995,30,0.9854927463731866,2000,drift
+zebrafish,adaxial_cells,9.0,genuine GRN,2.0,MYOD1,0.7914137721061707,39,0.9809904952476238,2000,expression
+zebrafish,adaxial_cells,9.0,no GRN,2.0,MYOD1,-0.001471126009710139,1240,0.38019009504752377,2000,drift
+zebrafish,adaxial_cells,9.0,no GRN,2.0,MYOD1,0.8964983701705933,37,0.9819909954977488,2000,expression

@@ -1,0 +1,45 @@
+favored,gene,lineage,time,label,text,connector,observed_expression_percentile,evidence_class,dataset,lineage_display,reference_panel,nogrn_rank,grn_rank,n_seeds,ha
+no GRN,GCG,sc_alpha,3.0,"$\it{GCG}$
+alpha-cell hormone","(2.0, 1050)","(1.55, 1420)",1.0,highly expressed terminal hormone,pancreas,alpha-like,Veres EDT2,1.0,1918.0,0,
+no GRN,INS,sc_beta,6.0,"$\it{INS}$
+beta-cell hormone","(2.65, 155)",,1.0,highly expressed terminal hormone,pancreas,beta-like,Veres EDT2,2.0,167.0,0,
+no GRN,ADRA2A,sc_ec,3.0,"$\it{ADRA2A}$
+abundant EC-like receptor","(2.1, 37)",,0.9745,highly expressed state marker,pancreas,EC-like,Veres EDT2,6.0,57.0,0,
+no GRN,NKX6-1,sc_beta,3.0,"$\mathit{NKX6{-}1}$
+mature beta-cell identity TF","(58, 500)","(58, 335)",0.9766,highly expressed mature-state marker,pancreas,beta-like,Veres EDT2,58.0,195.0,0,center
+genuine GRN,NEUROG3,neurog3_late,3.0,"$\it{NEUROG3}$
+late endocrine progenitor TF","(250, 1.7)",,,,pancreas,late endocrine progenitor,Veres EDT2,297.0,3.0,0,right
+genuine GRN,FEV,fev_high_isl_low,3.0,"$\it{FEV}$
+FEV-high endocrine progenitor TF","(1650, 6.1)",,,,pancreas,FEV-high endocrine progenitor,Veres EDT2,1890.0,5.0,0,right
+genuine GRN,SST,sst_hhex,6.0,"$\it{SST}$
+delta-like hormone","(1450, 18)","(1530, 13.5)",,,pancreas,delta-like,Veres EDT2,1922.0,9.0,0,right
+genuine GRN,PAX4,neurog3_mid,3.0,"$\it{PAX4}$
+mid endocrine progenitor TF","(1650, 155)",,,,pancreas,mid endocrine progenitor,Veres EDT2,1913.0,107.0,0,right
+genuine GRN,ARX,sc_alpha,6.0,"$\it{ARX}$
+alpha-cell fate TF","(250, 42)",,,,pancreas,alpha-like,Veres EDT2,613.0,26.0,0,
+genuine GRN,DDC,sc_ec,3.0,"$\it{DDC}$
+EC-like serotonin enzyme","(165, 10)",,,,pancreas,EC-like,Veres EDT2,205.0,8.0,0,right
+no GRN,APOC1,pancreatic_intestinal_endoderm,9.0,"$\it{APOC1}$
+endoderm apolipoprotein","(100, 3000)","(86, 2450)",0.9955,highly expressed terminal output gene,zebrafish,pancreatic intestinal endoderm,Farrell frozen modules,56.0,1978.0,3,
+no GRN,STMN1A,pancreatic_intestinal_endoderm,9.0,"$\it{STMN1A}$
+proliferation-associated gene","(115, 900)","(103, 1250)",0.9865,highly expressed state-associated gene,zebrafish,pancreatic intestinal endoderm,Farrell frozen modules,79.0,1954.0,3,
+no GRN,CTSLB,prechordal_plate,7.0,"$\it{CTSLB}$
+prechordal protease","(13, 590)",,0.8565,terminal-state effector,zebrafish,prechordal plate,Farrell frozen modules,13.0,1019.0,3,center
+no GRN,KRT18,prechordal_plate,7.0,"$\it{KRT18}$
+abundant epithelial marker","(25.5, 235)",,0.9695,highly expressed state marker,zebrafish,prechordal plate,Farrell frozen modules,30.0,235.0,3,right
+genuine GRN,RIPPLY1,somites,9.0,"$\it{RIPPLY1}$
+somite-boundary regulator","(62, 31)","(76, 24.5)",,,zebrafish,somites,Farrell frozen modules,95.0,20.0,3,right
+genuine GRN,CDKN1CA,adaxial_cells,9.0,"$\it{CDKN1CA}$
+adaxial-cell cycle regulator","(38, 6.2)",,,,zebrafish,adaxial cells,Farrell frozen modules,110.0,11.0,3,
+genuine GRN,MYF5,somites,9.0,"$\it{MYF5}$
+somite myogenic TF","(2.1, 4.5)","(15.5, 5.3)",,,zebrafish,somites,Farrell frozen modules,22.0,6.0,3,
+genuine GRN,TA,notochord,9.0,"$\it{TA}$
+notochord-fate TF","(1500, 12.5)",,,,zebrafish,notochord,Farrell frozen modules,1993.0,11.0,3,right
+genuine GRN,PMP22B,notochord,9.0,"$\it{PMP22B}$
+notochord membrane candidate","(1500, 2.7)","(1700, 3.8)",,,zebrafish,notochord,Farrell frozen modules,1982.0,5.0,3,right
+genuine GRN,MYOD1,adaxial_cells,9.0,"$\it{MYOD1}$
+adaxial myogenic TF","(1400, 25)",,,,zebrafish,adaxial cells,Farrell frozen modules,1595.0,20.0,3,right
+genuine GRN,PCDH8,somites,9.0,"$\it{PCDH8}$
+somite adhesion gene","(950, 58)","(1080, 49)",,,zebrafish,somites,Farrell frozen modules,1725.0,38.0,3,right
+genuine GRN,TBX16,adaxial_cells,9.0,"$\it{TBX16}$
+paraxial-mesoderm TF","(1400, 115)","(1510, 78)",,,zebrafish,adaxial cells,Farrell frozen modules,1964.0,42.0,3,right

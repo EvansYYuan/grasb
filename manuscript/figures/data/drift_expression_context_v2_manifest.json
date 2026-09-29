@@ -1,0 +1,16 @@
+{
+  "version": "v2 selection-panel revision",
+  "argument": "GRN guidance adds lineage-specific regulatory attribution to a VAE baseline",
+  "selection_rule": "external reference programs define the universe; biological role defines focal exemplars",
+  "pancreas_exemplar": "NEUROG3, predefined endocrine-induction regulator",
+  "zebrafish_exemplar": "MYOD1, predefined myogenic regulator",
+  "figure_width_mm": 180,
+  "png_ppi": 600,
+  "font": "Open Sauce One",
+  "outputs": [
+    "figure2_guidance_beyond_vae_v2.pdf",
+    "figure2_guidance_beyond_vae_v2.svg",
+    "figure2_guidance_beyond_vae_v2.png",
+    "figure2_v2_selection.csv"
+  ]
+}

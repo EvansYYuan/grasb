@@ -1,0 +1,346 @@
+dataset,gene,lineage,lineage_display,time,reference_panel,nogrn_rank,grn_rank,n_seeds
+pancreas,ADRA2A,sc_ec,EC-like,3.0,Veres EDT2,6.0,57.0,0
+pancreas,ADRA2A,sc_ec,EC-like,6.0,Veres EDT2,17.0,168.0,0
+pancreas,ARX,sc_alpha,alpha-like,3.0,Veres EDT2,53.0,11.0,0
+pancreas,ARX,sc_alpha,alpha-like,6.0,Veres EDT2,613.0,26.0,0
+pancreas,BTG2,neurog3_early,early endocrine progenitor,3.0,Veres EDT2,1848.0,1369.0,0
+pancreas,CD36,sc_alpha,alpha-like,3.0,Veres EDT2,1719.0,796.0,0
+pancreas,CD36,sc_alpha,alpha-like,6.0,Veres EDT2,446.0,685.0,0
+pancreas,DDC,sc_ec,EC-like,3.0,Veres EDT2,205.0,8.0,0
+pancreas,DDC,sc_ec,EC-like,6.0,Veres EDT2,134.0,17.0,0
+pancreas,ENC1,phox2a,PHOX2A+,3.0,Veres EDT2,1920.0,50.0,0
+pancreas,ENC1,phox2a,PHOX2A+,6.0,Veres EDT2,1921.0,67.0,0
+pancreas,FEV,fev_high_isl_low,FEV-high endocrine progenitor,3.0,Veres EDT2,1890.0,5.0,0
+pancreas,FEV,fev_high_isl_low,FEV-high endocrine progenitor,6.0,Veres EDT2,1895.0,300.0,0
+pancreas,FEV,neurog3_late,late endocrine progenitor,3.0,Veres EDT2,175.0,12.0,0
+pancreas,FEV,neurog3_late,late endocrine progenitor,6.0,Veres EDT2,141.0,116.0,0
+pancreas,FEV,phox2a,PHOX2A+,3.0,Veres EDT2,61.0,20.0,0
+pancreas,FEV,phox2a,PHOX2A+,6.0,Veres EDT2,17.0,33.0,0
+pancreas,FEV,sc_ec,EC-like,3.0,Veres EDT2,1915.0,23.0,0
+pancreas,FEV,sc_ec,EC-like,6.0,Veres EDT2,1909.0,105.0,0
+pancreas,G6PC2,sc_beta,beta-like,3.0,Veres EDT2,117.0,237.0,0
+pancreas,G6PC2,sc_beta,beta-like,6.0,Veres EDT2,74.0,150.0,0
+pancreas,GADD45A,neurog3_early,early endocrine progenitor,3.0,Veres EDT2,1868.0,220.0,0
+pancreas,GCG,sc_alpha,alpha-like,3.0,Veres EDT2,1.0,1918.0,0
+pancreas,GCG,sc_alpha,alpha-like,6.0,Veres EDT2,3.0,1917.0,0
+pancreas,HES6,neurog3_mid,mid endocrine progenitor,3.0,Veres EDT2,1857.0,102.0,0
+pancreas,HES6,neurog3_mid,mid endocrine progenitor,6.0,Veres EDT2,1909.0,31.0,0
+pancreas,HHEX,sst_hhex,delta-like,3.0,Veres EDT2,1098.0,400.0,0
+pancreas,HHEX,sst_hhex,delta-like,6.0,Veres EDT2,1663.0,283.0,0
+pancreas,INS,sc_beta,beta-like,3.0,Veres EDT2,1.0,9.0,0
+pancreas,INS,sc_beta,beta-like,6.0,Veres EDT2,2.0,167.0,0
+pancreas,IRX2,sc_alpha,alpha-like,3.0,Veres EDT2,46.0,27.0,0
+pancreas,IRX2,sc_alpha,alpha-like,6.0,Veres EDT2,1821.0,24.0,0
+pancreas,ISL1,sc_alpha,alpha-like,3.0,Veres EDT2,16.0,14.0,0
+pancreas,ISL1,sc_alpha,alpha-like,6.0,Veres EDT2,62.0,3.0,0
+pancreas,ISL1,sc_beta,beta-like,3.0,Veres EDT2,19.0,21.0,0
+pancreas,ISL1,sc_beta,beta-like,6.0,Veres EDT2,57.0,10.0,0
+pancreas,ISL1,sst_hhex,delta-like,3.0,Veres EDT2,15.0,14.0,0
+pancreas,ISL1,sst_hhex,delta-like,6.0,Veres EDT2,21.0,13.0,0
+pancreas,KLK1,phox2a,PHOX2A+,3.0,Veres EDT2,1840.0,1868.0,0
+pancreas,KLK1,phox2a,PHOX2A+,6.0,Veres EDT2,1886.0,315.0,0
+pancreas,NEUROD1,neurog3_late,late endocrine progenitor,3.0,Veres EDT2,126.0,8.0,0
+pancreas,NEUROD1,neurog3_late,late endocrine progenitor,6.0,Veres EDT2,42.0,59.0,0
+pancreas,NEUROG3,neurog3_early,early endocrine progenitor,3.0,Veres EDT2,20.0,7.0,0
+pancreas,NEUROG3,neurog3_late,late endocrine progenitor,3.0,Veres EDT2,297.0,3.0,0
+pancreas,NEUROG3,neurog3_late,late endocrine progenitor,6.0,Veres EDT2,125.0,11.0,0
+pancreas,NEUROG3,neurog3_mid,mid endocrine progenitor,3.0,Veres EDT2,81.0,4.0,0
+pancreas,NEUROG3,neurog3_mid,mid endocrine progenitor,6.0,Veres EDT2,410.0,5.0,0
+pancreas,NKX6-1,prog_nkx61,NKX6-1+ progenitor,3.0,Veres EDT2,1910.0,61.0,0
+pancreas,NKX6-1,prog_nkx61,NKX6-1+ progenitor,6.0,Veres EDT2,1907.0,28.0,0
+pancreas,NKX6-1,sc_beta,beta-like,3.0,Veres EDT2,58.0,195.0,0
+pancreas,NKX6-1,sc_beta,beta-like,6.0,Veres EDT2,49.0,184.0,0
+pancreas,NPTX2,sc_beta,beta-like,3.0,Veres EDT2,34.0,71.0,0
+pancreas,NPTX2,sc_beta,beta-like,6.0,Veres EDT2,36.0,37.0,0
+pancreas,ONECUT3,fev_high_isl_low,FEV-high endocrine progenitor,3.0,Veres EDT2,1915.0,1884.0,0
+pancreas,ONECUT3,fev_high_isl_low,FEV-high endocrine progenitor,6.0,Veres EDT2,1911.0,171.0,0
+pancreas,PAX4,fev_high_isl_low,FEV-high endocrine progenitor,3.0,Veres EDT2,1697.0,237.0,0
+pancreas,PAX4,fev_high_isl_low,FEV-high endocrine progenitor,6.0,Veres EDT2,1794.0,1902.0,0
+pancreas,PAX4,neurog3_mid,mid endocrine progenitor,3.0,Veres EDT2,1913.0,107.0,0
+pancreas,PAX4,neurog3_mid,mid endocrine progenitor,6.0,Veres EDT2,1902.0,148.0,0
+pancreas,PAX4,sc_beta,beta-like,3.0,Veres EDT2,1835.0,1883.0,0
+pancreas,PAX4,sc_beta,beta-like,6.0,Veres EDT2,1891.0,1908.0,0
+pancreas,PHOX2A,phox2a,PHOX2A+,3.0,Veres EDT2,1910.0,64.0,0
+pancreas,PHOX2A,phox2a,PHOX2A+,6.0,Veres EDT2,1915.0,76.0,0
+pancreas,PTF1A,prog_nkx61,NKX6-1+ progenitor,3.0,Veres EDT2,1889.0,71.0,0
+pancreas,PTF1A,prog_nkx61,NKX6-1+ progenitor,6.0,Veres EDT2,1888.0,46.0,0
+pancreas,RBP4,sst_hhex,delta-like,3.0,Veres EDT2,1173.0,686.0,0
+pancreas,RBP4,sst_hhex,delta-like,6.0,Veres EDT2,1710.0,843.0,0
+pancreas,SLC18A1,sc_ec,EC-like,3.0,Veres EDT2,67.0,80.0,0
+pancreas,SLC18A1,sc_ec,EC-like,6.0,Veres EDT2,184.0,84.0,0
+pancreas,SLC30A8,sc_beta,beta-like,3.0,prespecified Veres terminal-gene boundary control,5.0,12.0,0
+pancreas,SLC30A8,sc_beta,beta-like,6.0,prespecified Veres terminal-gene boundary control,5.0,6.0,0
+pancreas,SOX9,prog_nkx61,NKX6-1+ progenitor,3.0,Veres EDT2,1912.0,72.0,0
+pancreas,SOX9,prog_nkx61,NKX6-1+ progenitor,6.0,Veres EDT2,1908.0,70.0,0
+pancreas,SPP1,prog_nkx61,NKX6-1+ progenitor,3.0,Veres EDT2,1489.0,669.0,0
+pancreas,SPP1,prog_nkx61,NKX6-1+ progenitor,6.0,Veres EDT2,805.0,1053.0,0
+pancreas,SST,sst_hhex,delta-like,3.0,Veres EDT2,1915.0,148.0,0
+pancreas,SST,sst_hhex,delta-like,6.0,Veres EDT2,1922.0,9.0,0
+pancreas,TPH1,phox2a,PHOX2A+,3.0,Veres EDT2,11.0,1901.0,0
+pancreas,TPH1,phox2a,PHOX2A+,6.0,Veres EDT2,3.0,48.0,0
+pancreas,TPH1,sc_ec,EC-like,3.0,Veres EDT2,4.0,120.0,0
+pancreas,TPH1,sc_ec,EC-like,6.0,Veres EDT2,19.0,8.0,0
+zebrafish,ACTA1A,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,146.0,145.0,3
+zebrafish,ACTC1A,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,153.0,67.0,3
+zebrafish,ACTC1B,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,1676.0,303.0,3
+zebrafish,AKAP12B,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,1978.0,1917.0,3
+zebrafish,AKAP12B,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,41.0,13.0,3
+zebrafish,ALCAMB,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,19.0,38.0,3
+zebrafish,ALDH1A2,somites,somites,7.0,Farrell frozen modules,71.0,22.0,3
+zebrafish,ALDH1A2,somites,somites,9.0,Farrell frozen modules,1985.0,156.0,3
+zebrafish,ALPI.1,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,178.0,78.0,3
+zebrafish,ANGPTL7,somites,somites,7.0,Farrell frozen modules,135.0,247.0,3
+zebrafish,ANGPTL7,somites,somites,9.0,Farrell frozen modules,133.0,133.0,3
+zebrafish,ANP32E,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,1951.0,1891.0,3
+zebrafish,APELA,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,44.0,111.0,3
+zebrafish,APELA,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,414.0,114.0,3
+zebrafish,APLNRA,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,118.0,36.0,3
+zebrafish,APOC1,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,214.0,1975.0,3
+zebrafish,APOC1,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,56.0,1978.0,3
+zebrafish,APOEB,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,1993.0,1997.0,3
+zebrafish,ARL4AA,somites,somites,7.0,Farrell frozen modules,81.0,153.0,3
+zebrafish,ARL4AA,somites,somites,9.0,Farrell frozen modules,916.0,70.0,3
+zebrafish,ASPH,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,48.0,8.0,3
+zebrafish,ASPH,notochord,notochord,7.0,Farrell frozen modules,11.0,17.0,3
+zebrafish,ASPH,notochord,notochord,9.0,Farrell frozen modules,2.0,2.0,3
+zebrafish,ASPH,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,178.0,131.0,3
+zebrafish,ASPH,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,14.0,49.0,3
+zebrafish,ASPH,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,57.0,11.0,3
+zebrafish,ASPH,somites,somites,7.0,Farrell frozen modules,11.0,7.0,3
+zebrafish,ASPH,somites,somites,9.0,Farrell frozen modules,52.0,8.0,3
+zebrafish,ATPIF1B,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,957.0,319.0,3
+zebrafish,ATPIF1B,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,1983.0,1760.0,3
+zebrafish,BTG2,somites,somites,7.0,Farrell frozen modules,325.0,165.0,3
+zebrafish,BTG2,somites,somites,9.0,Farrell frozen modules,20.0,38.0,3
+zebrafish,CALR3B,notochord,notochord,7.0,Farrell frozen modules,81.0,43.0,3
+zebrafish,CALR3B,notochord,notochord,9.0,Farrell frozen modules,1817.0,25.0,3
+zebrafish,CALR3B,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,5.0,9.0,3
+zebrafish,CALR3B,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,164.0,5.0,3
+zebrafish,CD63,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,17.0,142.0,3
+zebrafish,CD63,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,29.0,15.0,3
+zebrafish,CD9B,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,182.0,205.0,3
+zebrafish,CDH6,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,48.0,50.0,3
+zebrafish,CDKN1CA,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,110.0,11.0,3
+zebrafish,CDX4,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,267.0,36.0,3
+zebrafish,CDX4,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,14.0,3.0,3
+zebrafish,CHD,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,80.0,62.0,3
+zebrafish,CITED4B,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,496.0,34.0,3
+zebrafish,CITED4B,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,89.0,42.0,3
+zebrafish,CPN1,somites,somites,7.0,Farrell frozen modules,140.0,222.0,3
+zebrafish,CPN1,somites,somites,9.0,Farrell frozen modules,1929.0,80.0,3
+zebrafish,CTSLB,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,13.0,1019.0,3
+zebrafish,CTSLB,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,1983.0,63.0,3
+zebrafish,CX43.4,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,40.0,53.0,3
+zebrafish,CX43.4,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,71.0,93.0,3
+zebrafish,CX43.4,somites,somites,7.0,Farrell frozen modules,9.0,12.0,3
+zebrafish,CX43.4,somites,somites,9.0,Farrell frozen modules,83.0,80.0,3
+zebrafish,DDIT4,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,18.0,18.0,3
+zebrafish,DMRT2A,somites,somites,7.0,Farrell frozen modules,343.0,442.0,3
+zebrafish,DMRT2A,somites,somites,9.0,Farrell frozen modules,150.0,179.0,3
+zebrafish,EFEMP2A,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,167.0,151.0,3
+zebrafish,EFEMP2B,somites,somites,7.0,Farrell frozen modules,16.0,16.0,3
+zebrafish,EFEMP2B,somites,somites,9.0,Farrell frozen modules,1935.0,25.0,3
+zebrafish,EMILIN3A,notochord,notochord,7.0,Farrell frozen modules,117.0,177.0,3
+zebrafish,EMILIN3A,notochord,notochord,9.0,Farrell frozen modules,1970.0,63.0,3
+zebrafish,EMP2,somites,somites,7.0,Farrell frozen modules,421.0,543.0,3
+zebrafish,EMP2,somites,somites,9.0,Farrell frozen modules,284.0,259.0,3
+zebrafish,F11R.1,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,164.0,180.0,3
+zebrafish,FGF8A,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,76.0,69.0,3
+zebrafish,FKBP11,notochord,notochord,7.0,Farrell frozen modules,46.0,62.0,3
+zebrafish,FKBP11,notochord,notochord,9.0,Farrell frozen modules,1743.0,27.0,3
+zebrafish,FKBP11,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,32.0,110.0,3
+zebrafish,FKBP11,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,1995.0,48.0,3
+zebrafish,FN1B,somites,somites,7.0,Farrell frozen modules,64.0,86.0,3
+zebrafish,FN1B,somites,somites,9.0,Farrell frozen modules,19.0,19.0,3
+zebrafish,FOXA,notochord,notochord,7.0,Farrell frozen modules,66.0,26.0,3
+zebrafish,FOXA,notochord,notochord,9.0,Farrell frozen modules,1956.0,30.0,3
+zebrafish,FSTL1A,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,75.0,74.0,3
+zebrafish,FSTL1A,somites,somites,7.0,Farrell frozen modules,773.0,1007.0,3
+zebrafish,FSTL1A,somites,somites,9.0,Farrell frozen modules,239.0,102.0,3
+zebrafish,GPM6AB,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,1823.0,371.0,3
+zebrafish,H1F0,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,185.0,160.0,3
+zebrafish,HE1A,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,60.0,1735.0,3
+zebrafish,HE1A,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,1998.0,124.0,3
+zebrafish,HE1B,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,85.0,1627.0,3
+zebrafish,HE1B,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,1956.0,272.0,3
+zebrafish,HER1,somites,somites,7.0,Farrell frozen modules,66.0,37.0,3
+zebrafish,HER1,somites,somites,9.0,Farrell frozen modules,1991.0,100.0,3
+zebrafish,HER3,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,75.0,43.0,3
+zebrafish,HER9,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,2.0,6.0,3
+zebrafish,HES6,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,15.0,9.0,3
+zebrafish,HES6,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,33.0,4.0,3
+zebrafish,HES6,somites,somites,7.0,Farrell frozen modules,4.0,5.0,3
+zebrafish,HES6,somites,somites,9.0,Farrell frozen modules,19.0,16.0,3
+zebrafish,HOXA9B,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,60.0,82.0,3
+zebrafish,HOXA9B,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,43.0,42.0,3
+zebrafish,HOXB10A,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,47.0,65.0,3
+zebrafish,HOXB10A,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,37.0,32.0,3
+zebrafish,HOXB7A,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,2.0,4.0,3
+zebrafish,HOXB7A,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,5.0,6.0,3
+zebrafish,HOXB7A,somites,somites,7.0,Farrell frozen modules,25.0,75.0,3
+zebrafish,HOXB7A,somites,somites,9.0,Farrell frozen modules,2.0,4.0,3
+zebrafish,HOXB9A,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,36.0,29.0,3
+zebrafish,HOXC3A,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,5.0,11.0,3
+zebrafish,HOXC3A,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,8.0,4.0,3
+zebrafish,HOXC8A,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,11.0,22.0,3
+zebrafish,HOXC8A,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,20.0,20.0,3
+zebrafish,HOXD9A,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,45.0,53.0,3
+zebrafish,ID1,somites,somites,7.0,Farrell frozen modules,8.0,13.0,3
+zebrafish,ID1,somites,somites,9.0,Farrell frozen modules,33.0,14.0,3
+zebrafish,ID3,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,950.0,85.0,3
+zebrafish,ID3,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,13.0,8.0,3
+zebrafish,ID3,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,24.0,10.0,3
+zebrafish,IRX7,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,544.0,36.0,3
+zebrafish,ITGB1BP2,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,130.0,150.0,3
+zebrafish,ITM2CB,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,85.0,43.0,3
+zebrafish,JUN,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,25.0,19.0,3
+zebrafish,KAZALD2,somites,somites,7.0,Farrell frozen modules,107.0,319.0,3
+zebrafish,KAZALD2,somites,somites,9.0,Farrell frozen modules,232.0,167.0,3
+zebrafish,KRT18,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,271.0,119.0,3
+zebrafish,KRT18,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,30.0,235.0,3
+zebrafish,KRT18,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,63.0,4.0,3
+zebrafish,KRT8,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,98.0,45.0,3
+zebrafish,LRATB,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,32.0,37.0,3
+zebrafish,LRRC59,notochord,notochord,7.0,Farrell frozen modules,1261.0,37.0,3
+zebrafish,LRRC59,notochord,notochord,9.0,Farrell frozen modules,47.0,14.0,3
+zebrafish,LRRC59,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,1272.0,158.0,3
+zebrafish,LRRC59,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,390.0,110.0,3
+zebrafish,LSP1,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,71.0,87.0,3
+zebrafish,MARCKSL1B,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,1999.0,1999.0,3
+zebrafish,MARCKSL1B,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,1997.0,1993.0,3
+zebrafish,MCAMA,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,220.0,328.0,3
+zebrafish,MDKA,somites,somites,7.0,Farrell frozen modules,1680.0,1858.0,3
+zebrafish,MDKA,somites,somites,9.0,Farrell frozen modules,31.0,58.0,3
+zebrafish,MEF2D,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,51.0,54.0,3
+zebrafish,MEOX1,somites,somites,7.0,Farrell frozen modules,34.0,108.0,3
+zebrafish,MEOX1,somites,somites,9.0,Farrell frozen modules,4.0,5.0,3
+zebrafish,MSGN1,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,4.0,2.0,3
+zebrafish,MYF5,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,8.0,1.0,3
+zebrafish,MYF5,somites,somites,7.0,Farrell frozen modules,23.0,50.0,3
+zebrafish,MYF5,somites,somites,9.0,Farrell frozen modules,22.0,6.0,3
+zebrafish,MYL10,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,78.0,28.0,3
+zebrafish,MYOD1,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,1595.0,20.0,3
+zebrafish,NEXN,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,951.0,517.0,3
+zebrafish,NID2A,somites,somites,7.0,Farrell frozen modules,20.0,24.0,3
+zebrafish,NID2A,somites,somites,9.0,Farrell frozen modules,61.0,21.0,3
+zebrafish,NKX1.2LA,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,232.0,214.0,3
+zebrafish,NOTO,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,227.0,282.0,3
+zebrafish,NR2F5,somites,somites,7.0,Farrell frozen modules,167.0,236.0,3
+zebrafish,NR2F5,somites,somites,9.0,Farrell frozen modules,190.0,331.0,3
+zebrafish,NTD5,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,1706.0,168.0,3
+zebrafish,NTD5,notochord,notochord,7.0,Farrell frozen modules,13.0,6.0,3
+zebrafish,NTD5,notochord,notochord,9.0,Farrell frozen modules,1774.0,12.0,3
+zebrafish,P4HA1B,notochord,notochord,7.0,Farrell frozen modules,28.0,31.0,3
+zebrafish,P4HA1B,notochord,notochord,9.0,Farrell frozen modules,1990.0,20.0,3
+zebrafish,PAK1,notochord,notochord,7.0,Farrell frozen modules,79.0,143.0,3
+zebrafish,PAK1,notochord,notochord,9.0,Farrell frozen modules,1987.0,34.0,3
+zebrafish,PBXIP1B,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,134.0,119.0,3
+zebrafish,PCDH8,somites,somites,7.0,Farrell frozen modules,1095.0,49.0,3
+zebrafish,PCDH8,somites,somites,9.0,Farrell frozen modules,1725.0,38.0,3
+zebrafish,PITX2,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,34.0,43.0,3
+zebrafish,PITX2,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,13.0,9.0,3
+zebrafish,PLOD1A,notochord,notochord,7.0,Farrell frozen modules,24.0,19.0,3
+zebrafish,PLOD1A,notochord,notochord,9.0,Farrell frozen modules,1989.0,21.0,3
+zebrafish,PLP2,notochord,notochord,7.0,Farrell frozen modules,35.0,55.0,3
+zebrafish,PLP2,notochord,notochord,9.0,Farrell frozen modules,91.0,38.0,3
+zebrafish,PLP2,somites,somites,7.0,Farrell frozen modules,36.0,95.0,3
+zebrafish,PLP2,somites,somites,9.0,Farrell frozen modules,28.0,33.0,3
+zebrafish,PLTP,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,286.0,308.0,3
+zebrafish,PMP22B,notochord,notochord,7.0,Farrell frozen modules,37.0,71.0,3
+zebrafish,PMP22B,notochord,notochord,9.0,Farrell frozen modules,1982.0,5.0,3
+zebrafish,PPP1R14C,notochord,notochord,7.0,Farrell frozen modules,16.0,16.0,3
+zebrafish,PPP1R14C,notochord,notochord,9.0,Farrell frozen modules,70.0,6.0,3
+zebrafish,PRDM1A,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,1651.0,131.0,3
+zebrafish,PRDX5,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,666.0,147.0,3
+zebrafish,PTGDSB,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,51.0,59.0,3
+zebrafish,PTGES3L,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,1833.0,1572.0,3
+zebrafish,RBM24A,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,29.0,79.0,3
+zebrafish,RBM38,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,13.0,14.0,3
+zebrafish,RCN3,notochord,notochord,7.0,Farrell frozen modules,45.0,76.0,3
+zebrafish,RCN3,notochord,notochord,9.0,Farrell frozen modules,57.0,8.0,3
+zebrafish,RIPPLY1,somites,somites,7.0,Farrell frozen modules,197.0,146.0,3
+zebrafish,RIPPLY1,somites,somites,9.0,Farrell frozen modules,95.0,20.0,3
+zebrafish,RIPPLY2,somites,somites,7.0,Farrell frozen modules,252.0,133.0,3
+zebrafish,RIPPLY2,somites,somites,9.0,Farrell frozen modules,1994.0,280.0,3
+zebrafish,RRBP1B,notochord,notochord,7.0,Farrell frozen modules,34.0,47.0,3
+zebrafish,RRBP1B,notochord,notochord,9.0,Farrell frozen modules,461.0,18.0,3
+zebrafish,RRBP1B,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,8.0,15.0,3
+zebrafish,RRBP1B,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,39.0,5.0,3
+zebrafish,SALL4,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,74.0,33.0,3
+zebrafish,SERPINH1B,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,34.0,5.0,3
+zebrafish,SERPINH1B,notochord,notochord,7.0,Farrell frozen modules,4.0,1.0,3
+zebrafish,SERPINH1B,notochord,notochord,9.0,Farrell frozen modules,19.0,1.0,3
+zebrafish,SERPINH1B,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,51.0,13.0,3
+zebrafish,SERPINH1B,somites,somites,7.0,Farrell frozen modules,23.0,15.0,3
+zebrafish,SERPINH1B,somites,somites,9.0,Farrell frozen modules,46.0,9.0,3
+zebrafish,SI:CH211-101L18.8,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,38.0,84.0,3
+zebrafish,SI:CH211-152C2.3,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,1971.0,1979.0,3
+zebrafish,SI:CH211-156J16.1,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,130.0,156.0,3
+zebrafish,SI:CH73-234B20.5,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,1184.0,722.0,3
+zebrafish,SI:DKEY-11C5.14,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,1.0,13.0,3
+zebrafish,SI:DKEY-11C5.14,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,44.0,54.0,3
+zebrafish,SI:DKEY-11C5.14,somites,somites,7.0,Farrell frozen modules,56.0,164.0,3
+zebrafish,SI:DKEY-11C5.14,somites,somites,9.0,Farrell frozen modules,5.0,18.0,3
+zebrafish,SI:DKEY-239J18.2,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,57.0,1706.0,3
+zebrafish,SI:DKEY-239J18.2,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,1961.0,338.0,3
+zebrafish,SI:DKEY-239J18.3,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,137.0,418.0,3
+zebrafish,SI:DKEY-239J18.3,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,1992.0,1785.0,3
+zebrafish,SI:DKEY-261H17.1,notochord,notochord,7.0,Farrell frozen modules,30.0,43.0,3
+zebrafish,SI:DKEY-261H17.1,notochord,notochord,9.0,Farrell frozen modules,107.0,13.0,3
+zebrafish,SI:DKEY-261H17.1,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,171.0,363.0,3
+zebrafish,SI:DKEY-269I1.3,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,50.0,1430.0,3
+zebrafish,SI:DKEY-269I1.3,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,1997.0,333.0,3
+zebrafish,SI:DKEY-26G8.5,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,40.0,1696.0,3
+zebrafish,SI:DKEY-26G8.5,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,1927.0,606.0,3
+zebrafish,SNAI1A,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,67.0,24.0,3
+zebrafish,SOX19A,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,24.0,39.0,3
+zebrafish,SOX2,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,51.0,118.0,3
+zebrafish,SP5L,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,1970.0,1683.0,3
+zebrafish,STMN1A,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,79.0,1954.0,3
+zebrafish,TA,notochord,notochord,7.0,Farrell frozen modules,87.0,10.0,3
+zebrafish,TA,notochord,notochord,9.0,Farrell frozen modules,1993.0,11.0,3
+zebrafish,TAGLN2,pharyngeal_endoderm,pharyngeal endoderm,9.0,Farrell frozen modules,333.0,114.0,3
+zebrafish,TBX16,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,1964.0,42.0,3
+zebrafish,TBX6,somites,somites,7.0,Farrell frozen modules,65.0,165.0,3
+zebrafish,TBX6,somites,somites,9.0,Farrell frozen modules,1964.0,85.0,3
+zebrafish,TBX6L,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,36.0,48.0,3
+zebrafish,TCF15,somites,somites,7.0,Farrell frozen modules,31.0,111.0,3
+zebrafish,TCF15,somites,somites,9.0,Farrell frozen modules,14.0,11.0,3
+zebrafish,TGFBI,somites,somites,7.0,Farrell frozen modules,461.0,578.0,3
+zebrafish,TGFBI,somites,somites,9.0,Farrell frozen modules,292.0,433.0,3
+zebrafish,TNNI2B.1,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,166.0,154.0,3
+zebrafish,TOB1A,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,28.0,3.0,3
+zebrafish,TPMA,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,1775.0,571.0,3
+zebrafish,TRAM1,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,27.0,92.0,3
+zebrafish,TRAM1,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,159.0,17.0,3
+zebrafish,TRIM109,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,121.0,136.0,3
+zebrafish,TTNA,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,205.0,181.0,3
+zebrafish,TTNB,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,102.0,73.0,3
+zebrafish,TUBA1A,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,10.0,22.0,3
+zebrafish,TUBA8L2,somites,somites,7.0,Farrell frozen modules,18.0,26.0,3
+zebrafish,TUBA8L2,somites,somites,9.0,Farrell frozen modules,190.0,47.0,3
+zebrafish,TWIST2,notochord,notochord,7.0,Farrell frozen modules,15.0,5.0,3
+zebrafish,TWIST2,notochord,notochord,9.0,Farrell frozen modules,1998.0,21.0,3
+zebrafish,TXLNBA,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,207.0,248.0,3
+zebrafish,UNC45B,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,53.0,22.0,3
+zebrafish,VED,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,1948.0,290.0,3
+zebrafish,VOX,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,13.0,17.0,3
+zebrafish,VOX,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,285.0,31.0,3
+zebrafish,XBP1,notochord,notochord,7.0,Farrell frozen modules,136.0,11.0,3
+zebrafish,XBP1,notochord,notochord,9.0,Farrell frozen modules,1973.0,10.0,3
+zebrafish,XBP1,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,9.0,6.0,3
+zebrafish,XBP1,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,96.0,7.0,3
+zebrafish,ZFAND5A,adaxial_cells,adaxial cells,9.0,Farrell frozen modules,148.0,22.0,3
+zebrafish,ZFAND5A,somites,somites,7.0,Farrell frozen modules,49.0,43.0,3
+zebrafish,ZFAND5A,somites,somites,9.0,Farrell frozen modules,1954.0,63.0,3
+zebrafish,ZGC:110425,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,31.0,2.0,3
+zebrafish,ZGC:153675,notochord,notochord,7.0,Farrell frozen modules,321.0,198.0,3
+zebrafish,ZGC:153675,notochord,notochord,9.0,Farrell frozen modules,112.0,36.0,3
+zebrafish,ZGC:174153,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,3.0,48.0,3
+zebrafish,ZGC:174153,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,1917.0,55.0,3
+zebrafish,ZGC:174855,prechordal_plate,prechordal plate,7.0,Farrell frozen modules,10.0,148.0,3
+zebrafish,ZGC:174855,prechordal_plate,prechordal plate,9.0,Farrell frozen modules,1985.0,99.0,3
+zebrafish,ZGC:92242,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,210.0,101.0,3
+zebrafish,ZIC3,somites,somites,7.0,Farrell frozen modules,156.0,162.0,3
+zebrafish,ZIC3,somites,somites,9.0,Farrell frozen modules,1838.0,139.0,3
+zebrafish,ZNFL2A,pancreatic_intestinal_endoderm,pancreatic intestinal endoderm,9.0,Farrell frozen modules,50.0,110.0,3
